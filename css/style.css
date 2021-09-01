@@ -1,0 +1,41 @@
+
+body{
+font-family:Arial,Helvetica,sans-serif;
+width:80%;
+margin:0 auto;
+}
+
+h1{
+color:rgb(65, 32, 95);
+text-transform:uppercase;
+border-bottom:2px solid darkolivegreen;
+width:40%;
+padding-bottom:10px;
+}
+h2{
+color:crimson;
+text-shadow:2px 2px 0 blue;
+text-transform:capitalize;
+}
+
+.chicken{
+border-color:brown;
+border-style:double;
+border-width:10px;
+border-radius:50%;
+box-shadow:4px 5px 3px green;
+}
+
+h3{
+border-left:solid black 2px;
+padding-left:4px
+}
+ul li{
+list-style-type:none;
+border-bottom:2px solid lightgrey;
+width:50%;
+padding-bottom:5px;
+}
+.heart{
+color:red;
+}
